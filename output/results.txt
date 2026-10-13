@@ -1,0 +1,17 @@
+Total hashtags: 2929192
+Actual unique hashtags: 110728
+FM max trailing zeros: 15
+FM estimated unique: 32768
+FM formula: 2^15 = 32768
+
+Top 10 Hashtags:
+  #FarmersProtest                     1012052
+  #farmersprotest                     38766
+  #Farmers                            24611
+  #IStandWithFarmers                  24344
+  #FarmLaws                           18460
+  #StandWithFarmers                   15983
+  #FarmersProtests                    15241
+  #Tractor2Twitter                    13407
+  #HumanRights                        12461
+  #India                              12300
